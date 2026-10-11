@@ -57,7 +57,7 @@ Fonte: https://history.aip.org/exhibits/curie/curie.pdf
 
 O print abaixo registra uma interação com o NotebookLM, demonstrando como a ferramenta apresenta respostas acompanhadas de citações que permitem identificar e consultar as fontes utilizadas.
 
-**Evidência:** citacoes-das-fontes.png
+**Evidência:** [Print das citações do NotebookLM](./citacoes-das-fontes.png)
 
 **LINK**
 
