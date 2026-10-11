@@ -13,7 +13,7 @@ Saber sobre a vida de Marie Curie e suas contribuições para a ciência.
 
 As fontes foram selecionadas e verificadas considerando sua relevância considerada para o tema, para a credibilidade das instituições e dos autores, onde a contribuição corrobora para melhor compreender acerca da vida e legado de Marie Curie.
 
-Reunindo páginas de instituições científicas, registros históricos, enciclopédias, materiais e vídeo. A maior prioridade durante a busca e escolha foram fontes institucionais e documentos relacionados às descobertas e premiações de Marie.
+Reunindo páginas de instituições científicas, registros históricos, enciclopédias, materiais e vídeo. Durante a busca e seleção, foram priorizadas fontes institucionais e documentos relacionados às descobertas e premiações de Marie Curie.
 
 - https://www.iflscience.com/albert-einsteins-advice-to-marie-curie-in-1911-is-extremely-relevant-today-64134;
 - https://spacedaily.com/m-many-scientists-have-won-a-nobel-prize-but-only-one-person-ever-pulled-off-what-marie-curie-did-she-won-nobels-in-two-different-sciences-physics-in-1903-and-chemistry-in-1911-a-feat-no-one-has-rep/;
