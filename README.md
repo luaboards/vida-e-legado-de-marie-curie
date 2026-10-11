@@ -61,4 +61,4 @@ O print abaixo registra uma interação com o NotebookLM, demonstrando como a fe
 
 **LINK**
 
-https://notebook.google.com/notebook/8279cd45-0839-48f7-ae32-d89c8c3279c1
+[Marie Curie: A Pioneira da Radioatividade](./https://notebook.google.com/notebook/8279cd45-0839-48f7-ae32-d89c8c3279c1)
