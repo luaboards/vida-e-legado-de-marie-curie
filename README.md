@@ -30,11 +30,11 @@ Reunindo páginas de instituições científicas, registros históricos, enciclo
 - https://history.aip.org/exhibits/curie/recdis2.htm
 - https://www.nobelprize.org/stories/women-who-changed-science/marie-curie/
   
- DIRETRIZ DE PESQUISA
+**DIRETRIZ DE PESQUISA**
  
  "Comporte-se como um especialista acerca da vida e contribuições de Marie Curie."
 
- PERGUNTAS
+ **PERGUNTAS**
  - Em que ano Marie Curie nasceu?
 
 Marie Curie nasceu no ano de **1867** (mais precisamente em **7 de novembro de 1867**), em Varsóvia, na Polônia.
@@ -53,12 +53,12 @@ A causa principal de sua morte foi uma **anemia aplástica grave** (uma complica
 
 Fonte: https://history.aip.org/exhibits/curie/curie.pdf
 
-EVIDÊNCIA DE CONSULTA ÀS FONTES
+**EVIDÊNCIA DE CONSULTA ÀS FONTES**
 
 O print abaixo registra uma interação com o NotebookLM, demonstrando como a ferramenta apresenta respostas acompanhadas de citações que permitem identificar e consultar as fontes utilizadas.
 
 **Evidência:** citacoes-das-fontes.png
 
-LINK
+**LINK**
 
 https://notebook.google.com/notebook/8279cd45-0839-48f7-ae32-d89c8c3279c1
